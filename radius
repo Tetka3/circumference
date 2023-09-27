@@ -1,0 +1,7 @@
+def circumf():
+    aver = 2*3.14*r    
+    return aver
+
+r = 35
+c = circumf() 
+print(c) 
